@@ -2,11 +2,8 @@ Olá
 
 ##
 
-<a href="https://github.com/Batistas/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Batistas" />
-</a>
-<a href="https://github.com/Batistas/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Batistas&layout=compact&langs_count=8&card_width=320" />
+<a href="https://github.com/Batistass/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Batistass&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 ##
